@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-master
-=======
-modified
+this is dev
